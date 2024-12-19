@@ -1,0 +1,9 @@
+costcla==0.6
+gurobipy==10.0.2
+joblib==1.2.0
+numpy==1.22.4
+ray==2.3.1
+scikit-learn==1.0.2
+scikit-optimize==0.9.0
+scipy==1.8.1
+xgboost==2.0.1
